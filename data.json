@@ -8,7 +8,7 @@
       "HEADLINE_1": "$2 Instant Savings",
       "HEADLINE_2": "Enjoy your bonus value on any Ziploc brand item",
       "CTA": "Save Now",
-      "BACKGROUND_IMAGE": "https://ziploc.azureedge.net/~/media/components/ziploc/redesignen-us/recipes2ximages/431_smoothie-packs_inline1x2.jpg",
+      "BACKGROUND_IMAGE": "img/bg00.jpg",
       "URL": "https://www.officedepot.com/a/products/520824/Ziploc-Double-Zipper-Gal-Storage-Bags/"
     },
     {
@@ -19,7 +19,7 @@
       "HEADLINE_1": "Save up to $5",
       "HEADLINE_2": "Limited 4 per session",
       "CTA": "Save Now",
-      "BACKGROUND_IMAGE": "https://ziploc.azureedge.net/~/media/components/ziploc/redesignen-us/recipes2ximages/433_snackerflies_hero_2x.jpg",
+      "BACKGROUND_IMAGE": "img/bg01.jpg",
       "URL": "https://www.officedepot.com/a/products/520824/Ziploc-Double-Zipper-Gal-Storage-Bags/"
     },
     {
@@ -30,7 +30,7 @@
       "HEADLINE_1": "Buy One Get One",
       "HEADLINE_2": "Look for cupon on the HEB home page",
       "CTA": "Save Now",
-      "BACKGROUND_IMAGE": "https://ziploc.azureedge.net/~/media/components/ziploc/redesignen-us/recipes2ximages/433_snackerflies_inline1_2x.jpg",
+      "BACKGROUND_IMAGE": "img/bg02.jpg",
       "URL": "https://www.heb.com/?exp=instoreview"
     },
     {
@@ -41,7 +41,7 @@
       "HEADLINE_1": "$22 Instant Savings",
       "HEADLINE_2": "On any Ziploc brand item",
       "CTA": "Save Now",
-      "BACKGROUND_IMAGE": "https://ziploc.azureedge.net/~/media/components/ziploc/redesignen-us/recipes2ximages/433_snackerflies_inline2_2x.jpg",
+      "BACKGROUND_IMAGE": "img/bg03.jpg",
       "URL": "https://www.officedepot.com/a/products/520824/Ziploc-Double-Zipper-Gal-Storage-Bags/"
     },
     {
@@ -52,7 +52,7 @@
       "HEADLINE_1": "Save up to $5",
       "HEADLINE_2": "Limit 4 per session",
       "CTA": "Save Now",
-      "BACKGROUND_IMAGE": "https://ziploc.azureedge.net/~/media/components/ziploc/redesignen-us/recipes2ximages/433_snackerflies_inline3_2x.jpg",
+      "BACKGROUND_IMAGE": "img/bg04.jpg",
       "URL": "https://www.officedepot.com/a/products/520824/Ziploc-Double-Zipper-Gal-Storage-Bags/"
     }
   ]
