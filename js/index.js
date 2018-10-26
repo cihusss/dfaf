@@ -23,12 +23,12 @@ else {
       data = JSON.parse(request.responseText);
       buildAd();
     } else {
-      // error msg from server
+      //error msg from server
     }
   };
 
   request.onerror = function() {
-    // There was a connection error of some sort
+    //there was a connection error of some sort
   };
 
   request.send();
