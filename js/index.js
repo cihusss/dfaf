@@ -17,6 +17,10 @@ var data;
 var wrapperWidth;
 var wrapperHeight;
 var url = window.location.href;
+var getID = document.getElementById;
+
+// resizing listener event
+// window.addEventListener("resize", buildAd);
 
 // check for leaf query string
 if (url.indexOf("leaf") > -1) {
@@ -51,7 +55,7 @@ else {
 }());
 
 // build ad
-function buildAd() {
+function buildAd(event) {
 
   var headline = data.data[leaf].HEADLINE_1;
   var cta = data.data[leaf].CTA;
@@ -87,7 +91,7 @@ function buildAd() {
 };
 
 // adjust layout & style
-function styleAd() {
+function styleAd(event) {
 
   switch(wrapperWidth + wrapperHeight) {
     
@@ -123,5 +127,7 @@ function styleAd() {
       document.getElementById("logo").style.width = "27px"
       break;
   }
+
+  document.getElementById("ad").style.opacity = "1";
 
 }

@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "LEAF": 1,
+      "LEAF": 0,
       "AUDIENCE": "deal_seeker",
       "SEGMENT_ID": "tbd",
       "CHANNEL": "desktop",
@@ -12,7 +12,7 @@
       "URL": "https://www.officedepot.com/a/products/520824/Ziploc-Double-Zipper-Gal-Storage-Bags/"
     },
     {
-      "LEAF": 2,
+      "LEAF": 1,
       "AUDIENCE": "deal_seeker",
       "SEGMENT_ID": "tbd",
       "CHANNEL": "desktop",
@@ -23,7 +23,7 @@
       "URL": "https://www.officedepot.com/a/products/520824/Ziploc-Double-Zipper-Gal-Storage-Bags/"
     },
     {
-      "LEAF": 3,
+      "LEAF": 2,
       "AUDIENCE": "deal_seeker",
       "SEGMENT_ID": "tbd",
       "CHANNEL": "desktop",
@@ -34,7 +34,7 @@
       "URL": "https://www.heb.com/?exp=instoreview"
     },
     {
-      "LEAF": 4,
+      "LEAF": 3,
       "AUDIENCE": "deal_seeker",
       "SEGMENT_ID": "tbd",
       "CHANNEL": "mobile",
@@ -45,7 +45,7 @@
       "URL": "https://www.officedepot.com/a/products/520824/Ziploc-Double-Zipper-Gal-Storage-Bags/"
     },
     {
-      "LEAF": 5,
+      "LEAF": 4,
       "AUDIENCE": "deal_seeker",
       "SEGMENT_ID": "tbd",
       "CHANNEL": "mobile",
