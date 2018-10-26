@@ -27,7 +27,7 @@ if (url.indexOf("leaf") > -1) {
   leaf = url.substring(url.indexOf("=") + 1);
 }
 else {
-  leaf = 0;
+  leaf = 1;
 }
 
 // get and parse json data
@@ -56,6 +56,13 @@ else {
 
 // build ad
 function buildAd(event) {
+
+  // check if leaf value is valid, if not default to 0
+  var count = Object.keys(data.data).length -1;
+
+  if(leaf > count) {
+    leaf = 0;
+  }
 
   var headline = data.data[leaf].HEADLINE_1;
   var cta = data.data[leaf].CTA;
