@@ -16,7 +16,7 @@ else {
 (function getData() {
 
   var request = new XMLHttpRequest();
-  request.open('GET', 'sizes.json', true);
+  request.open('GET', 'json/sizes.json', true);
   console.log("run");
 
   request.onload = function() {

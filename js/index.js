@@ -1,16 +1,3 @@
-//      \
-//      - \
-//      |   \
-//      |---- \
-//      |       \
-//      |---------\
-//       \          \
-//         \--------O-\
-//           \----^-|-^-\
-//             \___/_\____\            ad template
-//             __/_____\____\___/      written by teo
-// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 // set global vars
 var leaf;
 var data;
@@ -33,7 +20,7 @@ else {
 (function getData() {
 
   var request = new XMLHttpRequest();
-  request.open('GET', 'data.json', true);
+  request.open('GET', 'json/matrix.json', true);
 
   request.onload = function() {
     if (request.status >= 200 && request.status < 400) {
