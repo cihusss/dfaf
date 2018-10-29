@@ -5,7 +5,7 @@
 * [Single ad preview](https://cihusss.github.io/html5media/index.html?leaf=4)
 * [Multiple size ad preview](https://cihusss.github.io/html5media/preview.html?leaf=4)
 
-*Change leaf id's in the url in order to preview different creative*.
+Change leaf id's in the url in order to preview different creative*.
 
 ## Compatibility
 
@@ -23,4 +23,4 @@
   * /js
   * /json
 
-*AppNexus clickTag is currently implemented. If you'd like to switch to Google Ad Manager clickTag, please follow documentation on [this link](https://support.google.com/admanager/answer/7046799?hl=en) and edit your index.html.
+AppNexus clickTag is currently implemented. If you'd like to switch to Google Ad Manager clickTag, please follow documentation on [this link](https://support.google.com/admanager/answer/7046799?hl=en) and edit your index.html.
