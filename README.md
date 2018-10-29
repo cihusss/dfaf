@@ -15,12 +15,12 @@
 ## Usage
 
 * Clone the repository to your local web server
-* Make changes to matric.json, sizes.json and images
-* Zip up the following files for Google Ad Manager or AppNexus:
+* Replace content / make changes
+* Once done zip up the following files for Google Ad Manager or AppNexus:
   * /index.html
   * /css
   * /img
   * /js
   * /json
-  
-*iAppNexus clickTag is currently implemented. If you'd like to switch to Google Ad Manager clickTag, please follow documentation on [this link](https://support.google.com/admanager/answer/7046799?hl=en) and edit your index.html.
+
+*AppNexus clickTag is currently implemented. If you'd like to switch to Google Ad Manager clickTag, please follow documentation on [this link](https://support.google.com/admanager/answer/7046799?hl=en) and edit your index.html.
