@@ -9,6 +9,7 @@ The goal of this project is to make html5 ad creation/implementation better in e
 * Light & fast
   * Native javascript only
   * No third party depenencies
+* Major ad platforms supported
 * Easy to understand, use and repurpose
 
 ## Demo
