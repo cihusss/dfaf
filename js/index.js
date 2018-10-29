@@ -17,7 +17,6 @@ var data;
 var wrapperWidth;
 var wrapperHeight;
 var url = window.location.href;
-var getID = document.getElementById;
 
 // resizing listener event
 // window.addEventListener("resize", buildAd);
@@ -44,11 +43,11 @@ else {
     } else {
       // error msg from server
     }
-  };
+  }
 
   request.onerror = function() {
     // there was a connection error of some sort
-  };
+  }
 
   request.send();
 
@@ -57,7 +56,7 @@ else {
 // build ad
 function buildAd(event) {
 
-  // check if leaf value is valid, if not default to 0
+  // check if leaf value is valid, if not default to 0ç
   var count = Object.keys(data.data).length -1;
 
   if(leaf > count) {
