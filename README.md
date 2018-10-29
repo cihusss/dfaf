@@ -1,6 +1,15 @@
-# DFF: dynamic flex ad framework
+# DFAF: dynamic flex ad framework
 
 The goal of this project is to make html5 ad creation/implementation better in every way.
+
+# Key features
+
+* Dynamic media matrix driven
+* Dynamic sizes fed
+* Light & fast
+ * Native javascript only
+ * No third party depenencies
+* Easy to understand, use and repurpose
 
 ## Demo
 
