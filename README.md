@@ -1,4 +1,4 @@
-# DFF - dynamic flex ad framework
+# DFF: dynamic flex ad framework
 
 The goal of this project is to make html5 ad creation/implementation better in every way.
 
