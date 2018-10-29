@@ -5,7 +5,7 @@ The goal of this project is to make html5 ad creation/implementation better in e
 # Key features
 
 * Dynamic content driven
-* One flex ad unit fits all sizes
+* One ad fits all: adapts layout/styles across multiple fixed iframe sizes
 * Easily customizable
 * Light & fast
   * Native javascript only
