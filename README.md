@@ -8,6 +8,7 @@
 Change leaf id's in the url in order to preview different creative*.
 
 ## Compatibility
+Successfully tested on the following platforms:
 
 * Google Ad Manager (DFP)
 * AppNexus
