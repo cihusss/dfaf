@@ -1,5 +1,7 @@
 # DFF - dynamic flex ad framework
 
+The goal of this project is to make html5 ad creation/implementation better in every way.
+
 ## Demo
 
 * [Single ad preview](https://cihusss.github.io/html5media/index.html?leaf=4)
@@ -8,6 +10,7 @@
 Change leaf id's in the url in order to preview different creative*.
 
 ## Compatibility
+
 Successfully tested on the following platforms:
 
 * Google Ad Manager (DFP)
