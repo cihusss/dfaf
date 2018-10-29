@@ -2,7 +2,7 @@
 
 The goal of this project is to make html5 ad creation/implementation better in every way.
 
-# Key features
+## Key features
 
 * Dynamic content driven
 * One ad fits all: adapts layout/styles across multiple fixed iframe sizes
