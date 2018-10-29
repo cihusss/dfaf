@@ -1,4 +1,5 @@
-# DFF - Dynamic flex-ad framework
+# DFF - dynamic flex ad framework
+A better way to create and manage ads
 
 ## Usage
 
