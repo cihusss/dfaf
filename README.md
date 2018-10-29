@@ -4,8 +4,8 @@ The goal of this project is to make html5 ad creation/implementation better in e
 
 # Key features
 
-* Dynamic media matrix driven
-* Dynamic sizes fed
+* Dynamic media-matrix driven
+* Dynamic, variable ad unit sizes
 * Light & fast
  * Native javascript only
  * No third party depenencies
