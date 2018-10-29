@@ -1,16 +1,15 @@
-Dynamic flex-ad framework
-------------------------------------------
+#DFF - Dynamic flex-ad framework
 
-Single ad preview:
+##Usage
+
+* Single ad preview:
 https://cihusss.github.io/html5media/index.html?leaf=4
-Multiple size ad preview:
+* Multiple size ad preview:
 https://cihusss.github.io/html5media/preview.html?leaf=4
 
-Change leaf id's in the url in order to see different creative
+**Change leaf id's in the url in order to see different creative
 
-------------------------------------------
-Compatibility
-------------------------------------------
+##Compatibility
 
-- Google Ad Manager (DFP)
-- AppNexus
+* Google Ad Manager (DFP)
+* AppNexus
