@@ -29,7 +29,9 @@ Successfully tested on the following platforms:
 ## Usage
 
 * Clone the repository to your local web server
-* Replace content / make changes
+* Edit json/matrix.json per your media plan - this is your static database
+* Edit json/sizes.json in order to add/remove supported ad sizes
+* Edit images in the img folder and make sure they are referenced in json/matrix.json
 * Once done zip up the following files for Google Ad Manager or AppNexus implementation:
   * /index.html
   * /css
