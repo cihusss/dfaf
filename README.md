@@ -29,4 +29,4 @@ Successfully tested on the following platforms:
 
 ## Click Tag
 
-AppNexus clickTag is currently implemented. If you'd like to switch to Google Ad Manager clickTag, please follow documentation on [this link](https://support.google.com/admanager/answer/7046799?hl=en) and edit your index.html.
+AppNexus clickTag is currently implemented. If you'd like to switch to Google Ad Manager clickTag, please follow documentation on [this link](https://support.google.com/admanager/answer/7046799?hl=en) and edit your index.html accordingly.
