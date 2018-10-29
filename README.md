@@ -8,7 +8,7 @@ The goal of this project is to make html5 ad creation/implementation better in e
 * One ad fits all: adapts layout/styles across multiple fixed iframe sizes
 * Easily customizable
 * Light & fast
-  * Native javascript only
+  * Minimal code, native javascript only
   * No third party depenencies
 * Major ad platforms supported
 * Easy to understand, use and repurpose
