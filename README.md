@@ -18,7 +18,7 @@ The goal of this project is to make html5 ad creation/implementation better in e
 * [Single ad preview](https://cihusss.github.io/dfaf/index.html?leaf=4)
 * [Multiple size ad preview](https://cihusss.github.io/dfaf/preview.html?leaf=4)
 
-Change leaf id's in the url in order to preview different creative.
+Change leaf id's in the url in order to preview different creative variations.
 
 ## Compatibility
 
