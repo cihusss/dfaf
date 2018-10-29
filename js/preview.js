@@ -9,7 +9,7 @@ if (url.indexOf("leaf") > -1) {
   leaf = url.substring(url.indexOf("=") + 1);
 }
 else {
-  leaf = 1;
+  leaf = 0;
 }
 
 // get and parse json data
