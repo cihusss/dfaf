@@ -56,13 +56,14 @@ else {
 // build ad
 function buildAd(event) {
 
-  // check if leaf value is valid, if not default to 0ç
+  // check if leaf value is valid, if not default to 0
   var count = Object.keys(data.data).length -1;
 
   if(leaf > count) {
     leaf = 0;
   }
 
+  // set up dynamic content vars
   var headline = data.data[leaf].HEADLINE_1;
   var cta = data.data[leaf].CTA;
   // var url = data.data[leaf].URL;
