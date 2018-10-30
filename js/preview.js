@@ -56,7 +56,7 @@ function buildIframes() {
 		document.querySelectorAll("iframe")[i].setAttribute("width", data[x].width);
 		document.querySelectorAll("iframe")[i].setAttribute("height", data[x].height);
 		document.querySelectorAll("iframe")[i].setAttribute("frameborder", 0);
-		document.querySelectorAll("iframe")[i].setAttribute("scrolling", 0);
+		document.querySelectorAll("iframe")[i].setAttribute("scrolling", "no");
 	}
 
 }
