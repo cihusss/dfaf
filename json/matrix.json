@@ -13,7 +13,7 @@
     },
     {
       "LEAF": 1,
-      "AUDIENCE": "deal_seeker",
+      "AUDIENCE": "parent",
       "SEGMENT_ID": "tbd",
       "CHANNEL": "desktop",
       "HEADLINE_1": "Save up to $5",
@@ -24,7 +24,7 @@
     },
     {
       "LEAF": 2,
-      "AUDIENCE": "deal_seeker",
+      "AUDIENCE": "foodie",
       "SEGMENT_ID": "tbd",
       "CHANNEL": "desktop",
       "HEADLINE_1": "Buy One Get One",
@@ -35,7 +35,7 @@
     },
     {
       "LEAF": 3,
-      "AUDIENCE": "deal_seeker",
+      "AUDIENCE": "travel",
       "SEGMENT_ID": "tbd",
       "CHANNEL": "mobile",
       "HEADLINE_1": "$22 Instant Savings",
@@ -46,7 +46,7 @@
     },
     {
       "LEAF": 4,
-      "AUDIENCE": "deal_seeker",
+      "AUDIENCE": "teen",
       "SEGMENT_ID": "tbd",
       "CHANNEL": "mobile",
       "HEADLINE_1": "Save up to $5",
