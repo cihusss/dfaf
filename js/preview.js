@@ -40,11 +40,12 @@ else {
 
 }());
 
+// build iframes
 function buildIframes() {
 
 	var i = 0;
 	var count = Object.keys(data).length;
-	var iframe = "<iframe src'=index.html' width='300' height='600'></iframe>";
+	var iframe = "<iframe src'=ad.html' width='300' height='600'></iframe>";
 
 	for (i = 0; i < count; i++) {
 
@@ -52,7 +53,7 @@ function buildIframes() {
 		console.log(data[x].width);
 
 		document.querySelector("body").appendChild(document.createElement('iframe'));
-		document.querySelectorAll("iframe")[i].setAttribute("src", "index.html?leaf=" + leaf);
+		document.querySelectorAll("iframe")[i].setAttribute("src", "ad.html?leaf=" + leaf);
 		document.querySelectorAll("iframe")[i].setAttribute("width", data[x].width);
 		document.querySelectorAll("iframe")[i].setAttribute("height", data[x].height);
 		document.querySelectorAll("iframe")[i].setAttribute("frameborder", 0);

@@ -13,6 +13,7 @@
 
 // set global vars
 var leaf;
+var leaftype;
 var data;
 var wrapperWidth;
 var wrapperHeight;
@@ -56,10 +57,19 @@ else {
 // build ad
 function buildAd(event) {
 
-  // check if leaf value is valid, if not default to 0
-  var count = Object.keys(data.data).length -1;
+  // total number of keys in json object
+  var count = Object.keys(data.data).length;
 
-  if(leaf > count) {
+  // convert leaf value to number if it exist in json object
+  if (leaf < count) {
+    leaf = Number(leaf, 10);
+  }
+
+  // check var type of leaf and set leaftype var
+  leaftype = typeof leaf;
+
+  // default to 0 if leaf doesn't exist in json object or is string
+  if(leaf > count || leaftype == "string") {
     leaf = 0;
   }
 

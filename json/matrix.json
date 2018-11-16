@@ -5,7 +5,7 @@
       "AUDIENCE": "deal_seeker",
       "SEGMENT_ID": "tbd",
       "CHANNEL": "desktop",
-      "HEADLINE_1": "$2 Instant Savings",
+      "HEADLINE_1": "Generic fallback headline",
       "HEADLINE_2": "Enjoy your bonus value on any Ziploc brand item",
       "CTA": "Save Now",
       "BACKGROUND_IMAGE": "img/bg00.jpg",
