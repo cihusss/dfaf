@@ -12,7 +12,8 @@
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 // set global vars
-var leaf;
+// var leaf;
+var leaf = "${CUSTOM_MODEL_LEAF_NAME}";
 var leaftype;
 var data;
 var wrapperWidth;
@@ -23,10 +24,14 @@ var url = window.location.href;
 // window.addEventListener("resize", buildAd);
 
 // check for leaf query string
-if (url.indexOf("leaf") > -1) {
-  leaf = url.substring(url.indexOf("=") + 1);
-}
-else {
+// if (url.indexOf("leaf") > -1) {
+//   // leaf = url.substring(url.indexOf("=") + 1);
+// }
+// else {
+//   leaf = 0;
+// }
+
+if (leaf == "${CUSTOM_MODEL_LEAF_NAME}") {
   leaf = 0;
 }
 
