@@ -29,6 +29,7 @@ var url = window.location.href;
 // check for leaf query string
 if (url.indexOf("leaf") > -1) {
   leaf = url.substring(url.indexOf("=") + 1);
+  console.log('leaf: ' + leaf);
 }
 else {
   leaf = 0;
